@@ -2,7 +2,7 @@
 
 ## World Happiness & Suicide Rates
 
-###Members:
+### Members:
  	Christina Lee
 	John Santoyo
 	Joshua Florence
