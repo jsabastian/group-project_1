@@ -15,7 +15,7 @@ Determine if there is a relationship between a country’s happiness and its sui
 - Will the happiest countries have the least suicide?
 - Does GDP & Generosity correlate to happiness?
 - What predictor has the closest correlation to happiness?
-- What geo are is the happiest?
+- What geo area is the happiest?
 
 ### Datasets to Be Used:
 
