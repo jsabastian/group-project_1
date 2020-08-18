@@ -1,5 +1,3 @@
-# project-one-group-2
-
 ## World Happiness & Suicide Rates
 
 ### Members:
