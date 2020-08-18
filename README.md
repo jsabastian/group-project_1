@@ -3,10 +3,10 @@
 ## World Happiness & Suicide Rates
 
 ### Members:
- 	- Christina Lee
-	- John Santoyo
-	- Joshua Florence
-	- Corey Gaunt
+- Christina Lee
+- John Santoyo
+- Joshua Florence
+- Corey Gaunt
 
 ### Project Description / Outline:
 
@@ -21,9 +21,9 @@ Determine if there is a relationship between a country’s happiness and its sui
 
 ### Datasets to Be Used:
 
-	[World Happiness Data](https://www.kaggle.com/unsdsn/world-happiness)
+[World Happiness Data](https://www.kaggle.com/unsdsn/world-happiness)
 
-	[Suicide Rates](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+[Suicide Rates](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
 ### Rough Breakdown of Tasks:
 
